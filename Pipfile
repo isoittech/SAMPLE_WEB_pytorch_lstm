@@ -10,6 +10,7 @@ torch = "*"
 mecab-python3 = "*"
 scikit-learn = "*"
 matplotlib = "*"
+seaborn = "*"
 
 [dev-packages]
 jupyter-contrib-nbextensions = "*"
